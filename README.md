@@ -2,7 +2,6 @@
 
 Welcome to the Lisper Web App - The Secret Revealer! This unique application provides you with an anonymous secret every time you refresh the page.
 
-![Lisper Web App Screenshot](screenshot.png)
 
 ## How to Use
 
